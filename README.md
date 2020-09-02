@@ -49,3 +49,4 @@ Pretty much [every book on this list][15]. You'll especially want to start off w
 [12]: https://www.northernbrewer.com/products/fermenters-favorites-rack-magic-mini-siphon
 [13]: https://www.amazon.com/Clean-Bottle-Express%C2%A8-Carboy-Scrubber/dp/B00KOVIAOI/ref=sr_1_11?dchild=1&keywords=carboy+brush&qid=1599010421&sr=8-11
 [14]: https://www.thermoworks.com/Thermapen-Mk4
+[15]: https://learn.kegerator.com/homebrewing-books/
