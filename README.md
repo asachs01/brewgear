@@ -10,7 +10,7 @@ A list of brew gear that I wish I would have bought, or wish someone would have 
 ## General
 * [Starsan sanitizer][1]
 * [Hydrometer for measuring beer gravity][2]
-* [Whirfloc tablets (optional, good to have on hand for getting clearer beer)[3]
+* [Whirfloc tablets (optional, good to have on hand for getting clearer beer)][3]
 * [Auto siphon for transferring beer + some hose for it][12] (you'll likely have better luck at a local homebrew store)
 * [Carboy cleaning brush/scrubber][13]
 * [Thermometer][14]
